@@ -10,3 +10,6 @@ In case we have a request for a certain spot the RGB LED turns blue for approxim
 * SayeS --> Arduino Code 
 * SayeSnode --> Nodemcu Code 
 * main.go --> Telegram chatbot developed in golang; handle @sayes_bot 
+
+Screenshots and Videos 
+- https://drive.google.com/open?id=1TyF-ATQqPHLsRX1EavscOz8ocWFy-4Hf (demo starts at 2:40) 
